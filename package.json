@@ -1,0 +1,38 @@
+{
+  "name": "sambaqui",
+  "author": "Deivis",
+  "description": "Simple progrssive app to control a list of orders from a bar",
+  "keywords": [
+    "PWA",
+    "react",
+    "redux",
+    "service",
+    "workers"
+  ],
+  "license": "MIT",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "echo start is not available for now"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "react-router": "^4.0.0",
+    "redux": "^3.6.0",
+    "firebase": "^3.6.9",
+    "react-lite": "^0.15.34",
+    "react-router-dom": "next",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.2",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
